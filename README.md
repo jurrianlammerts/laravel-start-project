@@ -117,7 +117,7 @@ navigeer dan naar de folder waar de laravel intallatie gedaan moet worden. In mi
 
 Om een nieuw project aan te maken gebruik je het commando: 
 
-`larvel new`
+`laravel new`
 
 <a id="chapter-5"></a>
 ## Stap 5 - generate application key
